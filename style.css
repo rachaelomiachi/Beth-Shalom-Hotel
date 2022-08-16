@@ -1,6 +1,6 @@
-<style type="text/css" id="form-designer-style">
+/* <style type="text/css" id="form-designer-style"> */
     /* Injected CSS Code */
-*,
+/* *, */
 *:after,
 *:before {
   box-sizing: border-box;
@@ -15,7 +15,7 @@
 .form-all {
   display: flex;
   flex-direction: column;
-  margin: 72px auto;
+  margin: 82px auto;
   width: 100%;
   max-width: 752px;
 }
